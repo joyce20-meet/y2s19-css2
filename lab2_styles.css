@@ -41,10 +41,20 @@ input {
     opacity: 1;
 }
 
-div {
+/*div {
 	height: 100px;
 	width: 400px;
 	background-color: blue;
     opacity: .7;
     	
+}*/
+* {
+    margin: 0 auto;
+
 }
+div{
+padding-left: 50%;
+}
+  
+   
+    
